@@ -1,0 +1,15 @@
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\bin\Debug\net6.0\SafeBoardTask.exe
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\bin\Debug\net6.0\SafeBoardTask.deps.json
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\bin\Debug\net6.0\SafeBoardTask.runtimeconfig.json
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\bin\Debug\net6.0\SafeBoardTask.dll
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\bin\Debug\net6.0\SafeBoardTask.pdb
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\obj\Debug\net6.0\SafeBoardTask.csproj.AssemblyReference.cache
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\obj\Debug\net6.0\SafeBoardTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\obj\Debug\net6.0\SafeBoardTask.AssemblyInfoInputs.cache
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\obj\Debug\net6.0\SafeBoardTask.AssemblyInfo.cs
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\obj\Debug\net6.0\SafeBoardTask.csproj.CoreCompileInputs.cache
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\obj\Debug\net6.0\SafeBoardTask.dll
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\obj\Debug\net6.0\refint\SafeBoardTask.dll
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\obj\Debug\net6.0\SafeBoardTask.pdb
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\obj\Debug\net6.0\SafeBoardTask.genruntimeconfig.cache
+C:\Users\Pashkevich\RiderProjects\SafeBoardTask\SafeBoardTask\obj\Debug\net6.0\ref\SafeBoardTask.dll
